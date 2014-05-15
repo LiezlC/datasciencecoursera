@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Cata Science Project
+Data Science Project
